@@ -2,6 +2,9 @@
 
 ## 29/03/2025 Update to model.pth and model.py
 
+Model Download : https://drive.google.com/file/d/1NR_mVyGTZF0OrYfVlinT9_oKdE3oHNjd/view?usp=sharing
+Route : utils/model/
+
 - Increased accuracy (timing and overall face shows more natural movement overall, brows, squint, cheeks + mouth shapes)
 - More smoothness during playback (flappy mouth be gone in most cases, even when speaking quickly)
 - Works better with more voices and styles of speaking.
